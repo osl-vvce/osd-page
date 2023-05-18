@@ -1,7 +1,7 @@
 
 <div style="text-align: center;">
 <a href="https://asymmentric.github.io/osd-23/">
-  <img src="osl1.png" alt="Open Source Day 2023 Banner" style="width: 350px; height: 300px;">
+  <img src="assets/images/osd9.jpg" alt="Open Source Day 2023 Banner" style="width: 350px; height: 300px;">
 </a>
 </div>
 
